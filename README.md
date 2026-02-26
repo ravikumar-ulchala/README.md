@@ -9,6 +9,7 @@ Network & Security Engineer with 8+ years of experience in designing, implementi
 
 
  👨‍💻 Professional Summary
+ 
 Experienced Security Engineer | Network & Cloud Security | Data Center & Infrastructure Specialist
 
 With over a decade of expertise in network infrastructure, security engineering, and cloud security, I bring hands-on experience in architecting, deploying, and securing advanced networks. Skilled in managing firewalls, switches, routers, and wireless controllers, I optimize mission-critical systems and virtualization environments to ensure peak performance and security.
@@ -23,6 +24,7 @@ Recognized for delivering secure, scalable solutions that meet complex organizat
 
 
  🧠 Core Skills
+ 
  Firewalls: FortiGate, Check Point, Palo Alto, Cisco ASA, Sophos, SonicWall, pfSense
  Switching & Routing: Cisco, Cisco Nexus 9K, Aruba, HP, Dell, Arista, Juniper
  Wireless: Cisco & Aruba Controllers, Enterprise APs
@@ -35,6 +37,7 @@ Recognized for delivering secure, scalable solutions that meet complex organizat
 
 
  🏢 Experience Highlights
+ 
  Tier4 Data Center operations (Government of Telangana – TSWAN & TSCAN)
  Data Center migration without downtime
  Firewall HA, VPNs, SDWAN, ISP redundancy
@@ -44,6 +47,7 @@ Recognized for delivering secure, scalable solutions that meet complex organizat
 
 
  📜 Certifications
+ 
  CEH – Certified Ethical Hacker
  CCNA – Cisco Certified Network Associate
  Multiple Firewall Vendor Certifications
@@ -51,6 +55,7 @@ Recognized for delivering secure, scalable solutions that meet complex organizat
 
 
  📂 Portfolio Repositories
+ 
 🔹 [Firewall Configurations]()  
 🔹 [Data Center Network Design]()  
 🔹 [SDWAN Architecture]()  
